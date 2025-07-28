@@ -17,7 +17,7 @@
 - View my portfolio projects here 
 - View my data visuals here
 
-- #📫 How to reach me:
+- # ☎️ How to find me 
 
 - LinkedIN [link](https://www.linkedin.com/in/rotshidzwa-ramabulana-matimolane/)
 
