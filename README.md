@@ -25,5 +25,7 @@
   
 - Cell number 078 056 0019
 
-- #⚡Fun fact: I am rathere quiet but i have a contagious smile and laughter, its all good vibes this side 💃
+- # 😃 Fun Fact
+
+- I am rather quiet but i have a contagious smile and laughter, its all good vibes this side 💃
 
