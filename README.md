@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I am Rotshidzwa Matimolane a data analyst and financial administrator
 
-<!--
-**MrsRotshi123/MrsRotshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently open to working as a data analyst
+- 📚 I hold an Hons degree in Economics and Econometrics and a Data Analytocs certificate
+- 👨‍👧‍👦 God, Family, Growth
+- 💄 Pronouns: Her/She
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # 🧰 Skills and tools
+
+- Tools: Excel(Pivot tables, VLOOKUP, Charts), SQL(JOINS, Subqueries, CTEs, Unions, temporary tables), Power BI(Power Query,Dashboards)
+- Skills: Critical and Analytical thinking, Teamwork, Communiction, Problem solving, Attention to detail, Time managemnet, Administration
+
+- # 📁 Projects
+
+- View my portfolio projects here 
+- View my data visuals here
+
+- 📫 How to reach me:
+
+- LinkedIN [link](https://www.linkedin.com/in/rotshidzwa-ramabulana-matimolane/)
+
+- Email [link](rachelramabulana@gmail.com)
+  
+- Cell number 078 056 0019
+
+- #⚡Fun fact: I am rathere quiet but i have a contagious smile and laughter, its all good vibes this side 💃
+
