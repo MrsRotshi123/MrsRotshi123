@@ -3,8 +3,8 @@
 # About me 
 
 - 🔭 I’m currently open to working as a data analyst
-- 📚 I hold an Hons degree in Economics and Econometrics and a Data Analytocs certificate
-- 👨‍👧‍👦 God, Family, Growth
+- 📚 I hold an Hons degree in Economics and Econometrics and a Data Analytics certificate
+- 👨‍👧‍👦 God, Family, Learn and Grow
 - 💄 Pronouns: Her/She
 
 - # 🧰 Skills and tools
